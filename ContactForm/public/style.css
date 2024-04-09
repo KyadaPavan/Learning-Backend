@@ -41,8 +41,9 @@ h1 {
 input {
     padding: 1rem;
     outline: none;
-    border: 1px solid beige;
+    border: 1px solid rgb(0, 0, 0);
     border-radius: 5px;
+    color: black;
 }
 
 button {
